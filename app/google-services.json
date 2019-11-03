@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "678023260834",
+    "firebase_url": "https://speakapp-b2c6c.firebaseio.com",
+    "project_id": "speakapp-b2c6c",
+    "storage_bucket": "speakapp-b2c6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678023260834:android:1e4e876f7af9d048",
+        "android_client_info": {
+          "package_name": "com.example.speakapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678023260834-2v6mfafc8843s2v61vsvsq7jo08sgetm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakapp",
+            "certificate_hash": "82da835b540bd18965166363d933592497881153"
+          }
+        },
+        {
+          "client_id": "678023260834-m47fphcdse23roi5mqvvd9sf0fn2e8gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakapp",
+            "certificate_hash": "f21e0de151956a6c520987b82e9dbe9d0f9eff33"
+          }
+        },
+        {
+          "client_id": "678023260834-m7dkkom887d0nl17ooknojv0999e93hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakapp",
+            "certificate_hash": "ec88b932a1f25347b669c968d0734efa7d5ce61b"
+          }
+        },
+        {
+          "client_id": "678023260834-0674rcp39cdjuftm0f16vsek6qg0t4th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSX_T25xXTNd4OTjiCKR9uJvm3AygXYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678023260834-0674rcp39cdjuftm0f16vsek6qg0t4th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678023260834:android:56520abc4fc2c00cfac5fb",
+        "android_client_info": {
+          "package_name": "ug.co.globalautosystems.speakapp_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678023260834-qm5bqvc45fc1o1a2jgeiksm1rvaf9s1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ug.co.globalautosystems.speakapp_admin",
+            "certificate_hash": "8d268b7ffd6e1a2f0c0d3500f37c05d4561c8b36"
+          }
+        },
+        {
+          "client_id": "678023260834-0674rcp39cdjuftm0f16vsek6qg0t4th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWSX_T25xXTNd4OTjiCKR9uJvm3AygXYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678023260834-0674rcp39cdjuftm0f16vsek6qg0t4th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpeakApp-Admin</string>
+    <string name="cases">Cases</string>
+    <string name="policies">Policies</string>
+    <string name="stats">Stats</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="totals">Total Cases</string>
+    <string name="total">55</string>
+    <string name="totalmessage">This number shows the total number of cases reported on the application</string>
+    <string name="folo">Cases followed Up</string>
+    <string name="folloappmessage">This number shows the number of cases you have responded to on this application</string>
+    <string name="apptext">This app is made with love from Mbarara</string>
+    <string name="sample">Open to view details</string>
+    <string name="call">CALL</string>
+    <string name="actions">Actions</string>
+    <string name="sms">SMS</string>
+    <string name="send">SEND</string>
+    <string name="cancel">CANCEL</string>
+    <string name="please_type_a_message_for_the_receipient">Please type a message for the receipient</string>
+</resources>
